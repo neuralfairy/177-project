@@ -14,7 +14,7 @@ export const PrivacyPolicy: React.FC = () => {
               href="https://projectconsultantsusa.com/"
               className="text-blue-700 underline hover:text-blue-900"
             >
-              https://projectconsultantsusa.com/
+              ProjectConsultantsUSA – Expert CRM Implementation
             </a>
           </p>
         </header>
