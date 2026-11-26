@@ -79,9 +79,9 @@ export const Footer: React.FC = () => {
             </div>
             
             <div className="flex items-center space-x-6 text-sm">
-              <a href="https://salescentri.com/trust/security-privacy" className="text-gray-400 hover:text-white transition-colors duration-200">
+              <Link to="/privacy-policy" className="text-gray-400 hover:text-white transition-colors duration-200">
                 Privacy Policy
-              </a>
+              </Link>
               <a href="https://salescentri.com/trust/compliance-certifications" className="text-gray-400 hover:text-white transition-colors duration-200">
                 Terms of Service
               </a>
